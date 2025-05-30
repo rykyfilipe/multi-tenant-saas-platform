@@ -1,4 +1,4 @@
-import "./globals.css"
+import "../globals.css"
 import {Button} from "@/components/ui/button"
 import {Textarea} from "@/components/ui/textarea";
 import {Input} from "@/components/ui/input";
